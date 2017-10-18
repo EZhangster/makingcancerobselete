@@ -65,8 +65,8 @@ p {
 	23.5%  {-webkit-transform: rotate(90deg);-webkit-transform-origin: 50%;bottom: 0px; height: 500px; width:1300px; left:-565px;}
 	25.5%  {-webkit-transform: rotate(90deg);-webkit-transform-origin: 50%; width:75px; height: 75px; bottom: 575px; left:50px;}
 	39% {-webkit-transform: rotate(90deg);-webkit-transform-origin: 50%; width:75px; height: 75px; bottom: 575px; left:50px;background:black;}
-	41% {-webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; width:15px; height: 15px; bottom: 500px; left:345px;background:#b7b7b7}
-	100% {-webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; width:15px; height: 15px; bottom: 500px; left:345px;background:#b7b7b7}
+	41% {-webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; width:15px; height: 15px; bottom: 520px; left:337px;background:#b7b7b7}
+	100% {-webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; width:15px; height: 15px; bottom: 520px; left:337px;background:#b7b7b7}
 }
 
 #box2{
@@ -88,8 +88,8 @@ p {
 	23.5% {top: 0px; -webkit-transform: rotate(90deg);-webkit-transform-origin: 50%;left:225px;width:1300px;height:500px;}
     25.5% {top: 600px; -webkit-transform: rotate(90deg);-webkit-transform-origin: 50%;left:860px; width:75px; height: 75px;}
 	39% {top: 600px; -webkit-transform: rotate(90deg);-webkit-transform-origin: 50%;left:860px; width:75px; height: 75px;background:black;}
-	41% {top: 400px; -webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; left:700px; width:15px; height: 15px;background:#b7b7b7}
-	100% {top: 400px; -webkit-transform: rotate(135deg);-webkit-transform-origin: 50%;left:700px; width:15px; height: 15px;background:#b7b7b7}
+	41% {top: 400px; -webkit-transform: rotate(135deg);-webkit-transform-origin: 50%; left:624px; width:15px; height: 15px;background:#b7b7b7}
+	100% {top: 400px; -webkit-transform: rotate(135deg);-webkit-transform-origin: 50%;left:624px; width:15px; height: 15px;background:#b7b7b7}
 }
 
 #box3{
@@ -99,8 +99,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	position:absolute;
-	top:200px;
-	left:25px;
+	bottom:520px;
+	left:50px;
 }
 
 #box4{
@@ -110,9 +110,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 bottom:300px;
-	 bottom:300px;
-	 left:74px;
+	 top:400px;
+	 left:50px;
 }
 
 #box5{
@@ -122,8 +121,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 left:200px;
-	 bottom:100px;
+	 top:400px;
+	 left:910px;
 }
 
 #box6{
@@ -133,8 +132,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 left:325px;
-	 bottom:275px;
+	 left:337px;
+	 top:400px;
 }
 
 #box7{
@@ -144,8 +143,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 left:450px;
-	 bottom:10px;
+	 left:624px;
+	 bottom:70px;
 }
 
 #box8{
@@ -155,7 +154,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 left:550px;
+	 left:910px;
+	 bottom:520px;
 }
 
 #box9{
@@ -165,19 +165,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 left:700px;
-	 top:200px;
-}
-
-#box9{
-	background:#b7b7b7;
-	height:15px;
-	width:15px;
-	 -webkit-transform: rotate(135deg);
-	 -webkit-transform-origin: 50%;
-	 position:absolute;
-	 left:900px;
-	 top:75px;
+	 left:624px;
+	 bottom:520px
 }
 
 #box10{
@@ -187,19 +176,8 @@ p {
 	 -webkit-transform: rotate(135deg);
 	 -webkit-transform-origin: 50%;
 	 position:absolute;
-	 right:35px;
-	 bottom:85px;
-}
-
-#box11{
-	background:#b7b7b7;
-	height:15px;
-	width:15px;
-	 -webkit-transform: rotate(135deg);
-	 -webkit-transform-origin: 50%;
-	 position:absolute;
-	 right:35px;
-	 bottom:85px;
+	 left:910px;
+	 bottom:70px;
 }
 
 /** SHAPES END **/
@@ -1005,8 +983,8 @@ p {
 				36% {opacity:1;left:567px;}
 				37% {opacity:1;left:0;}
 				39% {opacity:1;left:0;top:40%;}
-				41% {opacity:1;left:300px;top:200px;}
-				100% {opacity:1;left:300px;top:200px;}
+				41% {opacity:1;left:292px;top:180px;}
+				100% {opacity:1;left:292px;top:180px;}
 			}
 
 			#r-prostate{
@@ -1031,8 +1009,8 @@ p {
 				36% {opacity:1;left:663px;}
 				37% {opacity:1;left:96px;}
 				39% {opacity:1;left:96px;top:40%;}
-				41% {opacity:1;left:315px;top:200px;}
-				100% {opacity:1;left:315px;top:200px;}
+				41% {opacity:1;left:307px;top:180px;}
+				100% {opacity:1;left:307px;top:180px;}
 			}
 
 			#o-prostate{
@@ -1057,8 +1035,8 @@ p {
 				36% {opacity:1;left:759px;}
 				37% {opacity:1;left: 192px;}
 				39% {opacity:1;left: 192px;top:40%;}
-				41% {opacity:1;left:330px;top:200px;}
-				100% {opacity:1;left:330px;top:200px;}
+				41% {opacity:1;left:322px;top:180px;}
+				100% {opacity:1;left:322px;top:180px;}
 			}
 
 			#s-prostate{
@@ -1083,8 +1061,8 @@ p {
 				36% {opacity:1;left:863px;}
 				37% {opacity:1;left: 296px;}
 				39% {opacity:1;left: 296px;top:40%;}
-				41% {opacity:1;left:345px;top:200px;}
-				100% {opacity:1;left:345px;top:200px;}
+				41% {opacity:1;left:337px;top:180px;}
+				100% {opacity:1;left:337px;top:180px;}
 			}
 
 			#t1-prostate{
@@ -1109,8 +1087,8 @@ p {
 				36% {opacity:1;left:969px;}
 				37% {opacity:1;left: 392px;}
 				39% {opacity:1;left: 392px;top:40%;}
-				41% {opacity:1;left:360px;top:200px;}
-				100% {opacity:1;left:360px;top:200px;}
+				41% {opacity:1;left:352px;top:180px;}
+				100% {opacity:1;left:352px;top:180px;}
 			}
 
 			#a-prostate{
@@ -1135,8 +1113,8 @@ p {
 				36% {opacity:1;left:1048px;}
 				37% {opacity:1;left:481px;}
 				39% {opacity:1;left:481px;top:40%;}
-				41% {opacity:1;left:375px;top:200px;}
-				100% {opacity:1;left:375px;top:200px;}
+				41% {opacity:1;left:367px;top:180px;}
+				100% {opacity:1;left:367px;top:180px;}
 			}
 
 			#t2-prostate{
@@ -1161,8 +1139,8 @@ p {
 				36% {opacity:1;left:1147px;}
 				37% {opacity:1;left: 580px;}
 				39% {opacity:1;left: 580px;top:40%;}
-				41% {opacity:1;left:390px;top:200px;}
-				100% {opacity:1;left:390px;top:200px;}
+				41% {opacity:1;left:383px;top:180px;}
+				100% {opacity:1;left:383px;top:180px;}
 			}
 
 			#e-prostate{
@@ -1187,8 +1165,8 @@ p {
 				36% {opacity:1;left:1249px;}
 				37% {opacity:1;left: 680px;}
 				39% {opacity:1;left: 680px;top:40%;}
-				41% {opacity:1;left:405px;top:200px;}
-				100% {opacity:1;left:405px;top:200px;}
+				41% {opacity:1;left:397px;top:180px;}
+				100% {opacity:1;left:397px;top:180px;}
 			}
 
 			/** STOPPING **/
@@ -1430,7 +1408,7 @@ p {
 		}
 
 		#lung{
-			left: 679px;
+			left: 603px;
     	top: 412px;
     	-webkit-text-stroke-width: 0.25px;
     	-webkit-text-stroke-color: black;
@@ -1438,53 +1416,50 @@ p {
 		}
 
 		#brain{
-			color: grey;
-			left: -2px;
-			top: 213px;
+			color:grey;
+			left: 21px;
+			top: 180px;
 		}
 
 		#breast{
 			color:#EA80B0;
-			top: 399px;
-			left: 38px;
+			top: 412px;
+			left: 16px;
 		}
 
 		#esophageal {
 			color: #CCCCFF;
-    	bottom: 85px;
-	    left: 136px;
+			top: 415px;
+    	left: 813px;
 		}
 
 		#skin-small {
 			color: #000;
-			top: 425px;
-     	left: 304px;
+			top: 415px;
+     	left: 316px;
 		}
 
 		#appendix {
 			color: #ffbf00;
-    	bottom: -4px;
-    	left: 404px;
+			bottom: 55px;
+			left: 580px;
+
 		}
 
 		#bone {
 			color: #dcb41c;
-			left: 528px;
-			top: 15px;
+			left: 887px;
+			top: 180px;
 		}
 
 		#colon {
 			color: #004990;
-			right: 14px;
-			top: 90px;
+			right: 287px;
+			top: 180px;
 		}
 
 		#kidney {
 			color:orange;
 			right: 0;
-			bottom: 69px;
-		}
-
-		#uterine {
-			color:#FFE5B4;
+			bottom: 55px;
 		}
