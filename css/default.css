@@ -1503,7 +1503,7 @@ p {
 
 		/** PROSTATE END**/
 
-		/** MAKING CANCER CENTERS OBSELET**/
+		/** MAKING CANCER CENTERS OBSOLETE**/
 
 			#making{
 				font-size: 120px;
@@ -1537,15 +1537,15 @@ p {
 				100% {opacity:0;left: 700px;}
 			}
 
-			#obselete{
+			#obsolete{
 				font-size: 120px;
 				position: absolute;
 				bottom: 110px;
 				right: 0px;
-				-webkit-animation: obselete-move 60s infinite;
+				-webkit-animation: obsolete-move 60s infinite;
 			}
 
-			@-webkit-keyframes obselete-move {
+			@-webkit-keyframes obsolete-move {
 				0% {opacity:0;right:0;}
 				43% {opacity:0;}
 				44% {opacity:1;}
